@@ -136,5 +136,44 @@ Extended Accesss
 -Select Department = Support = Save Changes
 <a href="https://imgur.com/IFIc7ub"><img src="https://i.imgur.com/IFIc7ub.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/xbM3Pqw"><img src="https://i.imgur.com/xbM3Pqw.png" title="source: imgur.com" /></a>
+<h2>Configure Users</h2>
 
+In the Agent panel
+
+Select Users tab to create user
+
+-Email Address: Karen@osticket.com
+
+-Full Name - Karen Karen
+
+-Select Add User
+<a href="https://imgur.com/ZqGYyCl"><img src="https://i.imgur.com/ZqGYyCl.png" title="source: imgur.com" /></a>
+
+Select user tab again to create another user
+
+-Email Address: Ken@osticket.com
+
+-Full Name - Ken Ken
+
+-Select Add User
+<a href="https://imgur.com/dt4921m"><img src="https://i.imgur.com/dt4921m.png" title="source: imgur.com" /></a>
+<h2> Configure Service Level Agreements</h2>
+Select Manage tab -> SLA -> Add New SLA Plan
+
+-Name: SEV-A
+
+-Grace Period: 1
+
+-Schedule dropdown menu: 24/7
+
+-Select Add Plan
+<a href="https://imgur.com/4VsMbNi"><img src="https://i.imgur.com/4VsMbNi.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/uLvPOqd"><img src="https://i.imgur.com/uLvPOqd.png" title="source: imgur.com" /></a>
+Name: SEV-B
+
+-Grace Period: 4
+
+-Schedule dropdown menu: 24/7
+
+-Select Add Plan
 <br />
