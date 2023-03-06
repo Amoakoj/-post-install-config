@@ -169,6 +169,7 @@ Select Manage tab -> SLA -> Add New SLA Plan
 -Select Add Plan
 <a href="https://imgur.com/4VsMbNi"><img src="https://i.imgur.com/4VsMbNi.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/uLvPOqd"><img src="https://i.imgur.com/uLvPOqd.png" title="source: imgur.com" /></a>
+
 Name: SEV-B
 
 -Grace Period: 4
@@ -176,4 +177,33 @@ Name: SEV-B
 -Schedule dropdown menu: 24/7
 
 -Select Add Plan
+<a href="https://imgur.com/KduxY8s"><img src="https://i.imgur.com/KduxY8s.png" title="source: imgur.com" /></a>
+
+Name: SEV-C
+
+-Grace Period: 8
+
+-Schedule dropdown menu: Monday - Friday 8AM - 5PM with U.S Holidays
+
+-Select Add Plan
+<a href="https://imgur.com/OuzYOdI"><img src="https://i.imgur.com/OuzYOdI.png" title="source: imgur.com" /></a>
+
+<h2> Configure Help Topics</h2>
+
+In the admin panel
+
+Select Manage tab = Help Topics = Add New Help Topic
+
+-Business Critical Outage
+
+-Personal Computer Issues
+
+-Equipment Request
+
+-Password Reset
+
+Select Add Topic for each topic
+<a href="https://imgur.com/SPnuzkz"><img src="https://i.imgur.com/SPnuzkz.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/NLlHpK6"><img src="https://i.imgur.com/NLlHpK6.png" title="source: imgur.com" /></a>
+
 <br />
