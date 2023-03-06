@@ -79,11 +79,62 @@ In the Admin Panel
 - Make sure box the "Registration Required" It reguired that registration and login is created and the tickets is unchecked.
 </p>
 <br />
+<img src=<a href="https://imgur.com/PKRc9Si"><img src="https://i.imgur.com/PKRc9Si.png" title="source: imgur.com" /></a>
+<p>
+ <h2>Configure Agents</h2>
+In the admin panel
+Select the Agents tab = Add New Agents
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Name: Jane Doe
+
+Email : jane.doe@osticket.com
+
+Username: jane.doe
+
+Click set password and uncheck box that says "send the agent a password reset email
+
+Set your password
+
+uncheck "require password change at next login" box
+set
+<a href="https://imgur.com/wlCvWax"><img src="https://i.imgur.com/wlCvWax.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/xbM3Pqw"><img src="https://i.imgur.com/xbM3Pqw.png" title="source: imgur.com" /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select Access tab
+
+ Under Primary Department
+
+ -Select department dropdown menu -> System Administrators
+
+ -Select Role dropdown menu -> Supreme Admin
+
+ Extended Accesss
+
+-Select Department -> Support -> Add -> Supreme Admin
+
+ Select Teams tab
+
+ -Select team dropdown menu -> Level II Support
+
+ -Select Add
+
+ Select Create
 </p>
+<img src=<a href="https://imgur.com/OMMn9br"><img src="https://i.imgur.com/OMMn9br.png" title="source: imgur.com" /></a>
+<img src=<a href="https://imgur.com/BztqGod"><img src="https://i.imgur.com/BztqGod.png" title="source: imgur.com" /></a>
+We can then Create another agent named john and repeat the process again.
+
+Follow same steps as above with some changes to Primary Department
+
+-Select department dropdown menu = Support
+
+-Select Role dropdown menu = View only
+
+Extended Accesss
+
+-Select Department = Support = Save Changes
+<a href="https://imgur.com/IFIc7ub"><img src="https://i.imgur.com/IFIc7ub.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/xbM3Pqw"><img src="https://i.imgur.com/xbM3Pqw.png" title="source: imgur.com" /></a>
+
 <br />
